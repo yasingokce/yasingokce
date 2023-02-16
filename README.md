@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasin Gökçe</h1>
 <h3 align="center">A fullstack developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Algorithims, Data Structure, Web Frameworks**
+- 🌱 I’m currently learning **Algorithims, Data Structure, Functional Programing**
 
 - 🤝 I’m looking for help with **Web Technologies, Gis, ChatGpt, Android Programing**
 
