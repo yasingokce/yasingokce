@@ -1,4 +1,4 @@
-##- 👋 Hi, I’m @yasingokce
+## - 👋 Hi, I’m @yasingokce
 - 👀 I’m interested in ChatGpt, Gis, Android Programing
 - 🌱 I’m currently learning Algorithims, Data Structure, Web Frameworks
 - 💞️ I’m looking to collaborate on ...
