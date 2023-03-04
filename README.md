@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Algorithims, Data Structure, Functional Programing**
 
-- 🤝 I’m looking for help with **Web Technologies(React,Nextjs,Svelte), Gis, Android Programing**
+- 🤝 I’m looking for help with **Web Technologies(React,Nextjs,Svelte), Gis, Android Programing, Software Test**
 
 - 📫 How to reach me **ygokcesahin@gmail.com**
 
