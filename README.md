@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasin Gökçe</h1>
 <h3 align="center">A fullstack developer and software tester from Turkey</h3>
+<h3 align="center">We write for the future.</h3>
 
 - 🔭 I’m currently working on software test and automation frameworks
 - 🌱 I’m currently learning **Algorithims, Data Structure, Functional Programing**
